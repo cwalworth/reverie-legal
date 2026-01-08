@@ -91,9 +91,7 @@ If we make changes to this privacy policy, we will update the "Last updated" dat
 
 If you have questions about this privacy policy, please contact:
 
-**Email:** [your-email@example.com]
-
-**GitHub:** [your-github-url]
+**Email:** [reverie.mood.music@gmail.com]
 
 ---
 
